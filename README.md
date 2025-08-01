@@ -108,18 +108,18 @@ At the end of each run I roll out **greedy trajectories** (ε = 0) at five ini
 ![Runtime](plots_f/runtime.png)
 
 ### Grid‑search Performance (mean return, last 100 episodes)
-![Grid‑search Wall](plots_f/grid_wall_4_2.png)
-![Grid‑search Checker](plots_f/grid_checker_4_2.png)
-![Grid‑search Pyramid ](plots_f/grid_pyramid_4_2.png)
+![Grid‑search Wall](plots/grid_wall_4_2.png)
+![Grid‑search Checker](plots/grid_checker_4_2.png)
+![Grid‑search Pyramid ](plots/grid_pyramid_4_2.png)
 
 ### Learning Curves (example: Wall, 16 bricks)
-![Episode returns](plots_f/rewards_wall_16bricks_non_smoothed.png)
-![Cumulative score](plots_f/scores_wall_16bricks_non_smoothed.png)
+![Episode returns](plots/rewards_wall_16bricks_non_smoothed.png)
+![Cumulative score](plots/scores_wall_16bricks_non_smoothed.png)
 
 ### Greedy Ball Trajectories
-![Trajectories - Checker](plots_f/trajectories_checker_4.png)
-![Trajectories - Pyramid](plots_f/trajectories_pyramid_4.png)
-![Trajectories - Wall](plots_f/trajectories_wall_4.png)
+![Trajectories - Checker](plots/trajectories_checker_4.png)
+![Trajectories - Pyramid](plots/trajectories_pyramid_4.png)
+![Trajectories - Wall](plots/trajectories_wall_4.png)
 ```
 ---
 
